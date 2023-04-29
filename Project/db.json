@@ -1,0 +1,236 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "pratiksha",
+      "mobile": "9822078440",
+      "email": "pratikshabolade@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Jompers Men's Cotton Silk Straight Kurta",
+      "price": 899,
+      "color": "Green",
+      "category": "Men",
+      "description": "Fit Type: Regular,Fabric: Silk,Kurta Length: Knee-Long,Style: Straight,Sleeve Type: Full",
+      "image": "../../assets/image4.jpg",
+      "id": 1
+    },
+    {
+      "name": "boAt Wave Call Smart Watch",
+      "price": 1799,
+      "color": "Dodgerblue",
+      "category": "Electronic",
+      "description": " Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes, HR, SpO2, IP68",
+      "image": "../../assets/image5.jpg",
+      "id": 2
+    },
+    {
+      "name": "Noise Buds VS104 Pro",
+      "price": 1699,
+      "color": "Aquamarine",
+      "category": "Electronic",
+      "description": "Truly Wireless Earbuds with 40-Hours of Playtime, Quad Mic with ENC, Instacharge, 14.2mm Driver, Hyper Sync, and BT v5.3   ",
+      "image": "../../assets/image6.jpg",
+      "id": 3
+    },
+    {
+      "name": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage",
+      "price": 18999,
+      "color": "Black",
+      "category": "Electronic",
+      "description": " 64MP Main Camera with EIS; 2MP Depth Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP Sony IMX471",
+      "image": "../../assets/image7.jpg",
+      "id": 4
+    },
+    {
+      "name": "Ben Martin Men's Denim Slim Fit Stretchable Jeans",
+      "price": 584,
+      "color": "White",
+      "category": "Men",
+      "description": "Brand:- Ben Martin , Fabric :- Denim,Colour :- Light Blue , Size :- 28,Closure :- Button , Fly :- Zip , Rise :- Mid , Strechabel :- Yes,Pocket :- 4 (1 small coin pocket) , Length :- Full Length",
+      "image": "../../assets/image9.jpg",
+      "id": 5
+    },
+    {
+      "name": "Puma Mens Maximal Comfort-everglide Range Walking Shoe",
+      "price": 1199,
+      "color": "Black",
+      "category": "Men",
+      "description": "Sole: Rubber,Closure: Lace-Up,Fit Type: Regular,Shoe Width: Medium,Style Name:-Walking Shoe,Model Name:- Maximal Comfort - Everglide Range,Brand Color:-PUMA Black-High Risk Red",
+      "image": "../../assets/image10.jpg",
+      "id": 6
+    },
+    {
+      "name": "YouBella Jewellery Bracelets for Women Stylish Rose Gold Plated Crystal Bracelet Bangle Jewellery for Girls and Women",
+      "price": 193,
+      "color": "Gold",
+      "category": "Jewellery",
+      "description": "Best for Gifting and for personal Use, combine it with matching dress and be the limelight of every Occassion Plated with High Quality Polish for Long Lasting Finish",
+      "image": "../../assets/image11.jpg",
+      "id": 7
+    },
+    {
+      "name": "YouBella Jewellery Gold Plated Floral Earrings for Girls and Women",
+      "price": 193,
+      "color": "Off-White",
+      "category": "Jewellery",
+      "description": "Best for Gifting and for personal Use, combine it with matching dress and be the limelight of every Occassion Plated with High Quality Polish for Long Lasting Finish",
+      "image": "../../assets/image12.jpg",
+      "id": 8
+    },
+    {
+      "name": "Shining Diva Fashion Stylish Multilayer Chain Pendant Necklace for Women and Girls",
+      "price": 199,
+      "color": "Gold",
+      "category": "Jewellery",
+      "description": "Gold plated multi layered pendant chain necklace Ideal valentine, birthday, anniversary gift for someone you love",
+      "image": "../../assets/image13.jpg",
+      "id": 9
+    },
+    {
+      "name": "Malabar Gold and Diamonds 18 KT purity Rose Gold Ring MBRG01230_R_SI-GH_10 for Women",
+      "price": 12392,
+      "color": "Gold",
+      "category": "Jewellery",
+      "description": "Malabar Gold and Diamonds 18 KT purity Rose Gold Ring MBRG01230_R_SI-GH_10 for Women, is perfect Office Wear and an ideal for Valentines Day BIS hallmarked Gold Certified & IGI diamond certified",
+      "image": "../../assets/image14.jpg",
+      "id": 10
+    },
+    {
+      "name": "SKOLL Latest Collection Bellies for Women",
+      "price": 399,
+      "color": "Grey",
+      "category": "Women",
+      "description": "Type : Ballies | Heel Type : Flats |Fastening and Back Detail : Open Back | Toe Shape : Pointed Toe | Ankle Height : Regular | Pattern : Solid",
+      "image": "../../assets/image15.jpg",
+      "id": 11
+    },
+    {
+      "name": "Denill Women Bellies (Ballet Flats)",
+      "price": 399,
+      "color": "Brown",
+      "category": "Women",
+      "description": "Sole: AIRMAX,Closure: Pull On,Fit Type: Regular,Shoe Width: Medium",
+      "image": "../../assets/image16.jpg",
+      "id": 12
+    },
+    {
+      "name": "AK SKY Women Stylish Trending and comfort Fancy Flat Fashion sandal",
+      "price": 299,
+      "color": "Blue",
+      "category": "Women",
+      "description": "Sole: Polyvinyl Chloride,Closure: Slip On,Fit Type: Regular,Shoe Width: Medium",
+      "image": "../../assets/image17.jpg",
+      "id": 13
+    },
+    {
+      "name": "PINKWOOD Women Sandal Block Heel",
+      "price": 410,
+      "color": "Pink",
+      "category": "Women",
+      "description": "Sole: Leather,Closure: Push Lock,Heel Height: 2 inches,Fit Type: Regular,Shoe Width: Medium",
+      "image": "../../assets/image18.jpg",
+      "id": 14
+    },
+    {
+      "name": "US Polo Association Mens Aaron 2.0 Drivers",
+      "price": 1410,
+      "color": "Grey",
+      "category": "Men",
+      "description": "Closure: Pull On,Fit Type: Regular,Shoe Width: Medium,Stylish Driving Style Loafer",
+      "image": "../../assets/image19.jpg",
+      "id": 15
+    },
+    {
+      "name": "AMAZING TRADERS Men Canvas Kussa Mojari and Jutti",
+      "price": 399,
+      "color": "Red",
+      "category": "Men",
+      "description": "Colour: Golden Color | Inner Material: Synthetic Leather | Outer Material: Canvas,Occasion: Casual | Wear: Casual,Ethnic, Party, Formal | Light Weight Product,Closure: Slip-on | Sole Material: Rubber, Water Proof",
+      "image": "../../assets/image20.jpg",
+      "id": 16
+    },
+    {
+      "name": "Fastrack Sunburn Analog Pink Dial Women's Watch",
+      "price": 1397,
+      "color": "Pink",
+      "category": "Women",
+      "description": "Dial color Pink case diameter 36.0,case material Brass case thickness 15.5,Band color Pink band material Leather",
+      "image": "../../assets/image21.jpg",
+      "id": 17
+    },
+    {
+      "name": "Red Tape Men Hoodie Sweatshirt",
+      "price": 1049,
+      "color": "Beige",
+      "category": "Men",
+      "description": "Fabric : 60% Cotton, 40% Polyester' Fleece - 260 GSm,Neck : Hood,Sleeve : Full Sleeve,Pattern : Typograpgy,ProductType: Hoodie",
+      "image": "../../assets/image1.jpg",
+      "id": 18
+    },
+    {
+      "name": "Florely Women's Pure Georgette Saree With Blouse Piece",
+      "price": 899,
+      "color": "Black",
+      "category": "Women",
+      "description": "Saree Material: Georgette | Blouse Material: Banglory Silk,Saree Length:-5.5 ,Blouse Length:-0.80.",
+      "image": "../../assets/image2.jpg",
+      "id": 19
+    },
+    {
+      "name": "Fashionuma Women's Organza Silk Heavy Work Semi-Stitched Semi-Stitched Lehenga Choli",
+      "price": 1199,
+      "color": "Pink",
+      "category": "Women",
+      "description": "Lehenga Color : Pink || Blouse Color : Pink || Duptta Color : Pink|| Inner Color : Pink,Lehenga Fabric : Organza Silk || Blouse Fabric : Net || Duptta Fabric : Net|| Inner Fabric : satin,Lehenga Flare : 4(MTR) || Lehenga Length : 45(Inch) ||Lehenga Waist Size : Up to 42(Inch) || Blouse Length : 0.5(MTR) || Duptta Length : 2.2(MTR) || Other Attachment : Blouse Inner Attach and size is 0.5(MTR)",
+      "image": "../../assets/image3.jpg",
+      "id": 20
+    },
+    {
+      "name": "Lavie Women's Ushawu Satchel Bag | Ladies Purse Handbag",
+      "price": 1125,
+      "color": "Coral",
+      "category": "Women",
+      "description": "Dimension: 32 cm in length x 12 cm in width x 24 cm in height.Interior has 2 compartments, divided by an inner zip storage, 2 slip pockets alongside 1 zip pocket, providing plenty of storage space for keeping phone, portable charger, keys, hairbrush, wallet, sunglasses, sanitizer etc. It has dual round cushioned top handles and an adjustable sling belt for multipurpose use.",
+      "image": "../../assets/image8.jpg",
+      "id": 21
+    },
+    {
+      "name": "Tooba Girl's Party Clutch",
+      "price": 495,
+      "color": "Beige",
+      "category": "Women",
+      "description": "Outer Material Type: Velvet,Strap Type : Chain,Elegant tassel pendant handbags is large enough to carry cards, money, car keys, small wallet, mirror, lipstick, some makeup etc",
+      "image": "../../assets/image22.jpg",
+      "id": 22
+    },
+    {
+      "name": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic",
+      "price": 1999,
+      "color": "Blue",
+      "category": "Electronic",
+      "description": "5 Hours of Playtime under optimum audio settings,What’s in the box: 1 x JBL GO 2, 1 x Micro USB cable for charging, 1 x Safety Sheet, 1 x Quick Start Guide, 1 x Warranty Card,Built-in Noise-cancelling Speakerphone,Wireless Bluetooth Streaming IPX7 Waterproof design",
+      "image": "../../assets/image23.jpg",
+      "id": 23
+    },
+    {
+      "name": "JBL Live 650BTNC, Over Ear Active Noise Cancelling Headphones with Mic",
+      "price": 5999,
+      "color": "White",
+      "category": "Electronic",
+      "description": "ACTIVE NOISE CANCELLING,JBL SIGNATURE SOUND,DUAL PAIRING,AMAZON ALEXA & GOOGLE ASSISTANT,UP TO 30 HOURS BATTERY,HANDS-FREE CALLS,JBL HEADPHONES APP",
+      "image": "../../assets/image24.jpg",
+      "id": 24
+    }
+  ]
+}
