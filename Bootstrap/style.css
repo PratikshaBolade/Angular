@@ -1,0 +1,230 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.About {
+    padding: 15vmin 0;
+}
+
+.Features {
+    padding: 15vmin 0;
+}
+
+.Service {
+    padding: 15vmin 0;
+}
+
+.Gallery {
+    padding: 15vmin 0;
+}
+
+.Contact {
+    padding: 15vmin 0;
+}
+
+.Team {
+    padding: 10vmin 0;
+}
+
+
+.testimonial {
+    padding: 15vmin 0;
+}
+
+.testimonial .row {
+    margin-top: 30px;
+}
+
+.col-md-4 {
+    margin: 40px auto;
+}
+
+.profile {
+    padding: 70px 10px 10px;
+    background-color: #efefef;
+}
+
+.profile:hover {
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.profile img {
+    top: -70px;
+    position: absolute;
+    left: 120px;
+    border: 10px solid white;
+}
+
+.user {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.profile h3 {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #ff6363;
+}
+
+span {
+    font-size: 16px;
+    color: #333;
+}
+
+/* testimonial */
+
+form input .form-control {
+    height: 56px;
+}
+
+form .form-control {
+    border: transparent;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+/* contact us */
+
+.rect {
+    box-shadow: inset -2px -2px 8px rgba(255, 255, 255, 1),
+        inset -2px -2px 12px rgba(255, 255, 255, 0.5),
+        inset 2px 2px 4px rgba(255, 255, 255, 0.1),
+        inset 2px 2px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    border-bottom: 5px solid #ff6363;
+}
+
+.numbers .rect {
+    position: relative;
+    z-index: 1;
+    background: white;
+    width: 17rem;
+    height: 12rem;
+    padding-top: 3.5vmin;
+    margin: 1rem;
+    border-radius: .5em;
+}
+
+.numbers {
+    margin-top: -23vmin;
+}
+
+.cover {
+    width: 100%;
+    height: 55vmin;
+    background: url(1.jpg);
+    background-position: -24rem -19rem;
+    background-size: 150%;
+    position: relative;
+}
+
+.cover .content {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    padding-top: 19vmin;
+}
+
+.cover .content>h1 {
+    font-size: 6vmin;
+    color: whitesmoke;
+}
+
+/* number animation */
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption {
+    bottom: 220px;
+    z-index: 2;
+}
+
+.carousel-caption h5 {
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    font-weight: 900;
+}
+
+.carousel-caption p {
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+.carousel-inner::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.w-100 {
+    height: 100vh;
+}
+
+/* home section */
+
+@media only screen and(min-width:768px)and(max-width:991px) {
+    .carousel-caption {
+        bottom: 370px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+    }
+}
+
+@media only screen and(max-width:767px) {
+    .navbar-nav .ml-auto {
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .navbar-nav a {
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .carousel-caption {
+        bottom: 125px;
+    }
+
+    .carousel-caption h5 {
+        font-size: 17px;
+    }
+
+    .carousel-caption a {
+        padding: 10px 15px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+        line-height: 1.6;
+        font-size: 12px;
+    }
+
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+
+    .numbers .rect h1 {
+        font-size: 2rem;
+    }
+
+    .Features .cover {
+        background-position: -25vmin, -10vmin;
+    }
+}
